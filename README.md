@@ -12,17 +12,19 @@ HTML, CSS, JavaScript, Node js,Mongoose,Express
 ## Guidelines
 1.Each retailer have to register and login to application.   
 
-2.After logging in you will find the dashboard where you have to enter the previous month data.
+2.After logging in you will find the dashboard which contains max profit menu.
 
-3.The dasboard contains itemname,profit,price,demand sections.
+3.Click on the max profit menu. 
 
-4.The retailer have to enter data according to these sections.
+4.The max profit contains itemname,profit,price,demand sections.
 
-5.Retailer have to enter data one by one separated by comma's.
+5.The retailer have to enter data according to these sections.
 
-6.After entering all the data you need to submit the data.
+6.Retailer have to enter data one by one separated by comma's.
 
-7.Then,you will get the list of items and quantity which you need to buy.
+7.After entering all the data you need to submit the data.
+
+8.Then,you will get the list of items and quantity which you need to buy.
 
 ## Link
 http://maxprov1.herokuapp.com/
