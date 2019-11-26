@@ -16,13 +16,13 @@ HTML, CSS, JavaScript, Node js,Mongoose,Express
 
 3.Click on the max profit menu. 
 
-4.The max profit contains itemname,profit,price,demand sections.
+4.The max profit menu contains itemname,profit,price,demand sections.
 
-5.The retailer have to enter data according to these sections.
+5.you have to enter data according to these sections.
 
-6.Retailer have to enter data one by one separated by comma's.
+6.Enter data one by one separated by comma's.
 
-7.After entering all the data you need to submit the data.
+7.After entering all the data, submit the data.
 
 8.Then,you will get the list of items and quantity which you need to buy.
 
