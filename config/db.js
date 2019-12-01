@@ -12,7 +12,6 @@ mongoose.connect(
             console.log("db connection error " + err)
         }
     })
-
 require('../models/wholesale.models')
 require('../models/demand.models')
 require('../models/User.models')
