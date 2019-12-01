@@ -2,7 +2,6 @@ const mongoose = require('mongoose');
 
 
 const ProfitSchema = new mongoose.Schema({
-
     items: {
         type: [String],
         required: true
