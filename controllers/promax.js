@@ -1,11 +1,9 @@
 const express = require('express');
 let router = express();
 const mongoose = require('mongoose');
-
 const { ensureAuthenticated} = require('../helpers/auth');
-
-
 const Profit = mongoose.model('Profit'); //to store input in db
+
 let profitPath = []; // to store array possible ways of profit
 let itemSelection = []; // to store array of item to be selected
 let quantitySelection = []; // to store array of qty to be selected
