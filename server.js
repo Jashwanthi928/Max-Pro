@@ -48,7 +48,7 @@ app.use((req,res,next)=>{
 })
 
 app.set('view engine','hbs')
-app.listen(port,() => console.log('server started on port 5000.....'))
+app.listen(port,() => console.log('Listening to port 5000.....'))
 
 app.use('/maxprofit',maxprofit)
 app.use('/',wholesalecontrollers)
